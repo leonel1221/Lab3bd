@@ -2,7 +2,8 @@
   "posts": [
     {
        "id": 1,
-       "title": "hello"
+       "title": "Cartagena",
+      "description": "ciudad amurallada del norte de colombia"
     }
   ],
   "profile": {
