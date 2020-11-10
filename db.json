@@ -6,7 +6,14 @@
        "description": "ciudad amurallada del norte de colombia",
        "temperature": "31°",
        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Baluarte_de_Santiago_CTG_11_2019_9804.jpg"
-    }
+    },
+    {
+      "id": 2,
+      "title": "Medellin",
+      "description": "ciudad de la eterna primavera",
+      "temperature": "22°",
+      "image": "https://as01.epimg.net/colombia/imagenes/2020/08/21/actualidad/1598040700_184330_1598040929_noticia_normal_recorte1.jpg"
+}
   ],
   "profile": {
     "name": "lab3code"
