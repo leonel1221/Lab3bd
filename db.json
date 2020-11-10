@@ -3,7 +3,7 @@
     {
        "id": 1,
        "title": "Cartagena",
-       "description": "Cartagena es una ciudad portuaria en la costa caribeña de Colombia",
+       "description": "Cartagena es una ciudad portuaria en la costa caribeña de colombia, ",
        "temperature": "31°",
        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Baluarte_de_Santiago_CTG_11_2019_9804.jpg"
     },
@@ -11,7 +11,7 @@
       "id": 2,
       "title": "Medellin",
       "description": "Medellín es la capital de la provincia montañosa de Antioquia en Colombia",
-      "temperature": "21°",
+      "temperature": "22°",
       "image": "https://as01.epimg.net/colombia/imagenes/2020/08/21/actualidad/1598040700_184330_1598040929_noticia_normal_recorte1.jpg"
 }
   ],
