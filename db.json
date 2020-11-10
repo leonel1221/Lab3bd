@@ -3,7 +3,9 @@
     {
        "id": 1,
        "title": "Cartagena",
-      "description": "ciudad amurallada del norte de colombia"
+      "description": "ciudad amurallada del norte de colombia",
+      "temperature": "31°",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Baluarte_de_Santiago_CTG_11_2019_9804.jpg"
     }
   ],
   "profile": {
