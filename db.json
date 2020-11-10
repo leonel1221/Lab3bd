@@ -2,10 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Cartagena",
+      "description": "Cartagena es una ciudad portuaria en la costa caribeña de Colombia. Junto al mar, se 	encuentra la Ciudad Vieja amurallada, que se fundó en el siglo XVI, con plazas, calles de adoquines y 	edificios coloniales coloridos.",
+      "temperature": "31",
+      "image": "https://i.pinimg.com/originals/a9/45/3a/a9453a8b0d355c9b012a06ee69d82be3.jpg"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "lab3code"
   }
 }
