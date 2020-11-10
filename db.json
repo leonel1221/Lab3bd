@@ -3,7 +3,7 @@
     {
        "id": 1,
        "title": "Cartagena",
-       "description": "Cartagena es una ciudad portuaria en la costa caribeña de Colombia. Junto al mar, se encuentra la Ciudad Vieja amurallada, que se fundó en el siglo XVI, con plazas, calles de adoquines y edificios coloniales coloridos.",
+       "description": "Cartagena es una ciudad portuaria en la costa caribeña de Colombia",
        "temperature": "31°",
        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Baluarte_de_Santiago_CTG_11_2019_9804.jpg"
     },
