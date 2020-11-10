@@ -13,7 +13,38 @@
       "description": "Medellín es la capital de la provincia montañosa de Antioquia en Colombia. Es apodada la ciudad de la eterna primavera por su clima templado y alberga la famosa feria de las flores. Es la unica ciudad de colombia que tiene el metro como sistema de transporte",
       "temperature": "22°",
       "image": "https://as01.epimg.net/colombia/imagenes/2020/08/21/actualidad/1598040700_184330_1598040929_noticia_normal_recorte1.jpg"
-}
+},
+    { 
+      "id": 3, 
+      "title": "Roma", 
+      "description": "Roma, la capital de Italia, es una extensa ciudad cosmopolita que tiene a la vista casi 3,000 años de arte, arquitectura y cultura de influencia mundial.",
+      "temperature": "11°",
+      "image": "https://historia.nationalgeographic.com.es/medio/2019/01/18/foro-romano-roma_6a11fe2b.jpg"
+    },
+     
+    { 
+      "id": 4, 
+      "title": "Paris", 
+      "description": "París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura.",
+      "temperature": "12°",
+      "image": "https://viajes.nationalgeographic.com.es/medio/2019/03/29/torre-eiffel-hoy_3f99dce8_800x800.jpg"
+    },
+     
+    { 
+      "id": 5, 
+      "title": "Paris", 
+      "description": "París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura.",
+      "temperature": "12°",
+      "image": "https://aws.traveler.es/prod/designs/v1/assets/940x627/148019.jpg"
+    },
+     
+    { 
+      "id": 6, 
+      "title": "Madrid", 
+      "description": "Madrid es la capital central de España con elegantes bulevares y amplios parques muy cuidados, como el Buen Retiro.",
+      "temperature": "10°",
+      "image": "https://www.101viajes.com/sites/default/files/styles/guia-full/public/cibeles-madrid-guia.jpg"
+    }
   ],
   "profile": {
     "name": "lab3code"
