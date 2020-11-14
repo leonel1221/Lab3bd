@@ -58,6 +58,13 @@
       "description": "Santuario es un municipio del oriente antioqueño, se caracteriza por ser la despenza agricola de antioquia",
       "temperature": "15°",
       "image": "https://diarioriente.com/wp-content/uploads/2019/07/el-santuario.png"
+    },
+    { 
+      "id": 9, 
+      "title": "Quibdó", 
+      "description": "Lo mejorcito de Colombia",
+      "temperature": "29°",
+      "image": "https://i.pinimg.com/originals/e7/01/1b/e7011bcfcba33104322af9a6ae57aa9c.jpg"
     }
   ],
   "profile": {
