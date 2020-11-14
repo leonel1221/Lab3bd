@@ -32,8 +32,8 @@
      
     { 
       "id": 5, 
-      "title": "Paris", 
-      "description": "París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura.",
+      "title": "Praga", 
+      "description": "Praga, es la capital de la Republica Checa, esta dividida por el rio moldava, recibe el apodo de la ciudad de las cien torres y es conocida por la plaza de la ciudad vieja.",
       "temperature": "12°",
       "image": "https://aws.traveler.es/prod/designs/v1/assets/940x627/148019.jpg"
     },
