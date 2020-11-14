@@ -44,7 +44,15 @@
       "description": "Madrid es la capital central de España con elegantes bulevares y amplios parques muy cuidados, como el Buen Retiro.",
       "temperature": "10°",
       "image": "https://www.101viajes.com/sites/default/files/styles/guia-full/public/cibeles-madrid-guia.jpg"
+    },
+    { 
+      "id": 7, 
+      "title": "Caucasia", 
+      "description": "Caucasia es la capital del bajo cauca, tierra ganadera y minera, cuna de oro de colombia",
+      "temperature": "33°",
+      "image": "https://mujeresantioquia.gov.co/sites/default/files/tipos-contenido/noticias/03-07-ondi-caucasia.png"
     }
+    
   ],
   "profile": {
     "name": "lab3code"
