@@ -51,8 +51,14 @@
       "description": "Caucasia es la capital del bajo cauca, tierra ganadera y minera, cuna de oro de colombia",
       "temperature": "33°",
       "image": "https://mujeresantioquia.gov.co/sites/default/files/tipos-contenido/noticias/03-07-ondi-caucasia.png"
+    },
+    { 
+      "id": 8, 
+      "title": "El santuario", 
+      "description": "Santuario es un municipio del oriente antioqueño, se caracteriza por ser la despenza agricola de antioquia",
+      "temperature": "15°",
+      "image": "https://diarioriente.com/wp-content/uploads/2019/07/el-santuario.png"
     }
-    
   ],
   "profile": {
     "name": "lab3code"
